@@ -1,16 +1,36 @@
 # Portfolio-2
 
+## Table of Contents
+
+- [Title](#title)
+- [Description](#description)
+- [User Story](#story)
+- [Images](#photos)
+- [Technologies Use](#technology)
+- [Contribution](#contribution)
+- [License](#license)
+
+## Project Title
+
+Node Express Handlebars Burger Application
+
+## Description
+
+_Quick description about this project_
+
 In this project, the goal was to update my portfolio page with new materials, refreshed design and updated resume. In this portfolio, there are four main sections: homepage with links to GitHub and LinkedIn, About me page with a photo and description of myself, a project sections showcasing three projects that I or my team and I have built, and a resume section with a pdf file of my skills/experiences.
 
-Link to Github Pages:
+## Github Pages
+
+_Link to this Project:_
 
 https://codyops.github.io/Portfolio-2/
 
-Technologies used in projects: HTML5, CSS, Bootstrap, JavaScript, jQuery, AJAX, Third party APIs, GitHub, Visual Studio Code, Terminal and more.
+## Photos
 
-I hope you enjoy my portfolio!
+_Photos of this Project:_
 
-Homepage:
+Home Page:
 
 ![Screen Shot 2020-11-15 at 6 32 07 PM](https://user-images.githubusercontent.com/70075378/99203870-20340580-2771-11eb-8bae-ab7f2f486157.png)
 
@@ -25,3 +45,11 @@ Project Page:
 Resume Page:
 
 ![Screen Shot 2020-11-15 at 6 33 38 PM](https://user-images.githubusercontent.com/70075378/99203943-4c4f8680-2771-11eb-9e28-b7790ff6b2e4.png)
+
+## Technology
+
+Technologies used in projects: HTML5, CSS, Bootstrap, JavaScript, jQuery, AJAX, Third party APIs, GitHub, Visual Studio Code, Terminal, Node.js, Express.js, MySQL, Sequelize.js and more.
+
+## License
+
+MIT License
