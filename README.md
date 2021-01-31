@@ -24,7 +24,7 @@ In this project, the goal was to update my portfolio page with new materials, re
 
 _Link to this Project:_
 
-https://codyops.github.io/Portfolio-2/
+https://codyops.github.io/Updated-Portfolio-3/
 
 ## Photos
 
